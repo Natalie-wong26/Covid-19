@@ -1,6 +1,5 @@
 streamlit
 pandas
-matplotlib.pyplot
-matplotlib.dates
+matplotlib
 seaborn
 numpy
