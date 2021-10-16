@@ -261,4 +261,4 @@ try:
 
 except Exception as e:
     st.write("Silahkan upload File Anda")
-    st.write(e)
+    
